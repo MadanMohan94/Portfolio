@@ -1,0 +1,12 @@
+.firstline {
+  margin: 5%;
+  padding-bottom: 3%;
+  color: rgb(201, 63, 63);
+}
+
+.firstline h1 {
+  padding-bottom: 5px;
+  border-bottom: 4px solid #f4f0f0;
+  display: inline-block;
+  margin-bottom: 15px;
+}
